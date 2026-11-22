@@ -43,9 +43,9 @@ Specializing in bridging the gap between complex IT infrastructure and data-driv
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Connect on LinkedIn](www.linkedin.com/in/enyinnaya-ahuekwe)
+* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/enyinnaya-ahuekwe)
 * **Tableau Public:** [View Interactive Dashboards](https://public.tableau.com/app/profile/enyinnaya.ahuekwe/vizzes)
-* **GitHub Portfolio:** [Explore All Repositories](https://://github.com/ae1000)
+* **GitHub Portfolio:** [Explore All Repositories](https://github.com/ae1000)
 
 ---
 
